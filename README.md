@@ -8,9 +8,12 @@ We also carried out separate regression tasks for different metals, starting fro
   <img src="READMEpics/pic1.png" alt="image1" width="400"/>
 </p>
 
-# Data curation
+# Data collection
 The data curation was completed with a single CV profile extraction tool. individual_CV_extraction. ipynb file gives an example. With a reported CV figure in hand, the first step employs OCR technique to locate the current and voltage axes, identify the scale values for subsequent normalization, and remove the irrelevant legends. In the second step, the target redox profile is isolated by specifying its HSV (hue–saturation–value) range. To ensure quantitative comparability across all collected images in the final step, each extracted single curve is standardized into unified current (-500 to 500 μA) and voltage (-2.0 to 2.0 V vs. SCE) scales according to the scale values recorded in the first step.
 
 <p align="center">
   <img src="READMEpics/pic2.png" alt="image2" width="800"/>
 </p>
+
+# Convert CV image into electro-descriptors
+To compared with descriptor-based strategy with image-based modelling, we take the paper entitled "Electro-Descriptors for the Performance Prediction of Electro-Organic Synthesis" as 
