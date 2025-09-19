@@ -7,7 +7,7 @@ We also carried out separate regression tasks for different metals, starting fro
 <p align="center">
   <img src="READMEpics/pic1.png" alt="image1" width="400"/>
 </p>
-*Figure 1. Combining CV images and convolutional neural network for electro-organic reaction performance prediction.*
+<p align="center"><i>Figure 1. Combining CV images and convolutional neural network for electro-organic reaction performance prediction.</i></p>
 
 ## Data collection
 The data curation is completed with a single CV profile extraction tool (`individual_CV_extraction.ipynb`). The workflow is as follows:
