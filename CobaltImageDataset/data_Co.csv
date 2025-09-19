@@ -1,0 +1,91 @@
+number_in_file,num,metal,yield,tag,notice
+1,0,Co,0.71,1,
+2,1,Co,0.64,1,
+3,2,Co,0.55,1,
+4,3,Co,0.48,1,
+5,4,Co,0.77,1,
+6,5,Co,0.73,1,
+9,6,Co,0.81,1,
+12,7,Co,0.27,1,
+21,8,Co,0.93,1,
+26,9,Co,0.8,1,
+40,10,Co,0.75,1,
+41,11,Co,0.71,1,flip of 1
+42,12,Co,0.71,1,flip of 1
+43,13,Co,0.71,1,flip of 1
+44,14,Co,0.64,1,flip of 2
+45,15,Co,0.64,1,flip of 2
+46,16,Co,0.64,1,flip of 2
+47,17,Co,0.55,1,flip of 3
+48,18,Co,0.55,1,flip of 3
+49,19,Co,0.55,1,flip of 3
+50,20,Co,0.48,1,flip of 4
+51,21,Co,0.48,1,flip of 4
+52,22,Co,0.48,1,flip of 4
+53,23,Co,0.77,1,flip of 5
+54,24,Co,0.77,1,flip of 5
+55,25,Co,0.77,1,flip of 5
+56,26,Co,0.73,1,flip of 6
+57,27,Co,0.73,1,flip of 6
+58,28,Co,0.73,1,flip of 6
+59,29,Co,0.81,1,flip of 9
+60,30,Co,0.81,1,flip of 9
+61,31,Co,0.81,1,flip of 9
+62,32,Co,0.27,1,flip of 12
+63,33,Co,0.27,1,flip of 12
+64,34,Co,0.27,1,flip of 12
+65,35,Co,0.93,1,flip of 21
+66,36,Co,0.93,1,flip of 21
+67,37,Co,0.93,1,flip of 21
+68,38,Co,0.8,1,flip of 26
+69,39,Co,0.8,1,flip of 26
+70,40,Co,0.8,1,flip of 26
+71,41,Co,0.75,1,flip of 40
+72,42,Co,0.75,1,flip of 40
+73,43,Co,0.75,1,flip of 40
+74,44,Co,0.71,1,blur of 1
+76,45,Co,0.64,1,blur of 2
+78,46,Co,0.55,1,blur of 3
+80,47,Co,0.48,1,blur of 4
+82,48,Co,0.77,1,blur of 5
+84,49,Co,0.73,1,blur of 6
+86,50,Co,0.81,1,blur of 9
+88,51,Co,0.27,1,blur of 12
+90,52,Co,0.93,1,blur of 21
+92,53,Co,0.8,1,blur of 26
+94,54,Co,0.75,1,blur of 40
+96,55,Co,0.71,1,noise of 1
+97,56,Co,0.64,1,noise of 2
+98,57,Co,0.55,1,noise of 3
+99,58,Co,0.48,1,noise of 4
+100,59,Co,0.77,1,noise of 5
+101,60,Co,0.73,1,noise of 6
+102,61,Co,0.81,1,noise of 7
+103,62,Co,0.27,1,noise of 8
+104,63,Co,0.93,1,noise of 9
+105,64,Co,0.8,1,noise of 10
+106,65,Co,0.75,1,noise of 11
+107,66,Co,0.85,1,
+108,67,Co,0.78,1,
+109,68,Co,0.73,1,
+110,69,Co,0.12,1,
+111,70,Co,0.85,1,flip of 107
+112,71,Co,0.85,1,flip of 107
+113,72,Co,0.85,1,flip of 107
+114,73,Co,0.78,1,flip of 108
+115,74,Co,0.78,1,flip of 108
+116,75,Co,0.78,1,flip of 108
+117,76,Co,0.73,1,flip of 109
+118,77,Co,0.73,1,flip of 109
+119,78,Co,0.73,1,flip of 109
+120,79,Co,0.12,1,flip of 110
+121,80,Co,0.12,1,flip of 110
+122,81,Co,0.12,1,flip of 110
+123,82,Co,0.85,1,blur of 107
+125,83,Co,0.78,1,blur of 108
+127,84,Co,0.73,1,blur of 109
+129,85,Co,0.12,1,blur of 110
+131,86,Co,0.85,1,noise of 107
+132,87,Co,0.78,1,noise of 108
+133,88,Co,0.73,1,noise of 109
+134,89,Co,0.12,1,noise of 110
