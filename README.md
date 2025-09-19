@@ -23,3 +23,7 @@ To compared image-based modelling with descriptor-based prediction, we test the 
 </p>
 
 # Dependence
+scikit-image version: 0.25.2
+PIL (Pillow) version: 11.3.0
+numpy version: 1.26.4
+pytesseract version: 0.3.10
