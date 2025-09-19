@@ -2,7 +2,7 @@
 This is a repository for predicting electro-organic reaction performance using cyclic voltammogram (CV) images as learning material with convolutional neural network (CNN). 
 
 Since raw cyclic voltammetry data points are rarely disclosed, the repository also provides a tool for extracting individual CV curves from published figures. 
-The curated dataset comprises 150 CVs corresponding to 50 individual reactions, each represented by a mixture CV, a substrate CV, and a catalyst CV. Plural-view strategy is employed for the reactivity calssification (`Autoencoder_CNN_classification.ipynb`). and reactions with yield below 10% were labelled as unreactive.
+The curated dataset comprises 150 CVs corresponding to 50 individual reactions, each represented by a mixture CV, a substrate CV, and a catalyst CV (`MultiviewImageDataset`). Plural-view strategy and autoencoder is employed for the reactivity calssification (`Autoencoder_CNN_classification.ipynb`). and reactions with yield below 10% were labelled as unreactive.
 
 We also carried out separate regression tasks for different metals, starting from cobalt catalysis, which constitutes the largest proportion of the collected dataset (`CV_CNN_regression.ipynb`).
 
