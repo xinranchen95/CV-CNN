@@ -1,0 +1,50 @@
+number,num,metal,yield,tag,note
+7,0,Ni,0.77,1,
+10,1,Ni,0.76,1,
+15,2,Ni,0.73,1,
+32,3,Ni,0.81,1,
+33,4,Ni,0.39,1,
+35,5,Ni,0.56,1,
+36,6,Ni,0.51,1,
+74,7,Ni,0.8,1,
+75,8,Ni,0.8,1,
+76,9,Ni,0.77,1,flip of 7
+77,10,Ni,0.77,1,flip of 7
+78,11,Ni,0.77,1,flip of 7
+79,12,Ni,0.76,1,flip of 10
+80,13,Ni,0.76,1,flip of 10
+81,14,Ni,0.76,1,flip of 10
+82,15,Ni,0.73,1,flip of 15
+83,16,Ni,0.73,1,flip of 15
+84,17,Ni,0.73,1,flip of 15
+85,18,Ni,0.81,1,flip of 32
+86,19,Ni,0.81,1,flip of 32
+87,20,Ni,0.81,1,flip of 32
+88,21,Ni,0.39,1,flip of 33
+89,22,Ni,0.39,1,flip of 33
+90,23,Ni,0.39,1,flip of 33
+91,24,Ni,0.56,1,flip of 35
+92,25,Ni,0.56,1,flip of 35
+93,26,Ni,0.56,1,flip of 35
+94,27,Ni,0.51,1,flip of 36
+95,28,Ni,0.51,1,flip of 36
+96,29,Ni,0.51,1,flip of 36
+97,30,Ni,0.8,1,flip of 74
+98,31,Ni,0.8,1,flip of 74
+99,32,Ni,0.8,1,flip of 74
+100,33,Ni,0.77,1,blur of 7
+101,34,Ni,0.76,1,blur of 10
+102,35,Ni,0.73,1,blur of 15
+103,36,Ni,0.81,1,blur of 32
+104,37,Ni,0.39,1,blur of 33
+105,38,Ni,0.56,1,blur of 35
+106,39,Ni,0.51,1,blur of 36
+107,40,Ni,0.8,1,blur of 74
+108,41,Ni,0.77,1,noise of 7
+109,42,Ni,0.76,1,noise of 10
+110,43,Ni,0.73,1,noise of 15
+111,44,Ni,0.81,1,noise of 32
+112,45,Ni,0.39,1,noise of 33
+113,46,Ni,0.56,1,noise of 35
+114,47,Ni,0.51,1,noise of 36
+115,48,Ni,0.8,1,noise of 74
