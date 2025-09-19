@@ -24,11 +24,11 @@ The data curation is completed with a single CV profile extraction tool (`indivi
 <p align="center"><i>Figure 2. Illustration of individual CV profile extraction.</i></p>
 
 ## Convert CV image into electro-descriptors
-To compared image-based modelling with descriptor-based prediction, we test the strategy in paper entitled "Electro-Descriptors for the Performance Prediction of Electro-Organic Synthesis". The calculation of electro-descriptors, including onset potential (E_onset), effective voltage (E_eff) and tafel slope is realized by binarizing the CV image and converting it into matrix data. 
+To compared image-based modelling with descriptor-based prediction, we test the strategy in paper entitled "Electro-Descriptors for the Performance Prediction of Electro-Organic Synthesis". The calculation of electro-descriptors, including onset potential (E<sub>onset</sub>), effective voltage (E<sub>eff</sub>) and tafel slope is realized by binarizing the CV image and converting it into matrix data. 
 
 The pixel coordinates corresponding to the CV curve are subsequently mapped into electrochemical quantities, where the x-axis pixels are converted into potential values (V vs. SCE), while the y-axis pixels are converted into current (mA). 
 
-The working electrode area (cm^2) reported in each publication was collected to facilitate the conversion of current into current density (mA/cm^2). The CV working electrode diameter, reaction working electrode area and reaction constant current that are necessary for calculating the electro-descriptors are included in the (`electro-descriptors.csv`). A convert example is given in (`Calculate_electro_desc_example.ipynb`).
+The working electrode area (cm<sup>2</sup>) reported in each publication was collected to facilitate the conversion of current into current density (mA/cm<sup>2</sup>). The CV working electrode diameter, reaction working electrode area and reaction constant current that are necessary for calculating the electro-descriptors are included in the (`electro-descriptors.csv`). A convert example is given in (`Calculate_electro_desc_example.ipynb`).
 
 <p align="center">
   <img src="READMEpics/pic3.png" alt="image3" width="800"/>
